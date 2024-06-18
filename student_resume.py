@@ -1,7 +1,7 @@
 def get_student_details():
-    """
-    Collects student details from the user.
-    """
+    
+    #Collects student details from the user.
+    
     print("Welcome! Let's create your resume.")
     name = input("Enter your full name: ")
     age = input("Enter your age: ")
